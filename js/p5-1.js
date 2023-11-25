@@ -6,3 +6,6 @@ function setup() {
     background(220);
     ellipse(50,50,80,80);
   }
+
+//   add input and button with useful result 
+// https://p5js.org/examples/dom-input-and-button.html
